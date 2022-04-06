@@ -1,6 +1,8 @@
 <h1 align="center">Site Básico - HOME</h1>
 
+
 <h2 align="center">STATUS - COMPLETO</h2>
+
 
 Uma página básica feita acompanhando o curso [Jornada Front-End](https://youtube.com/playlist?list=PLMy95_4XE08MRsQvaSQnHzyooNevGTNtS) gratuito disponibilizado pelo canal Vida Full Stack no Youtube. Página realizada para fins de revisão.
 
