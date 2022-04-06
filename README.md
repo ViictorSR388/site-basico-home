@@ -10,7 +10,7 @@ Uma página básica feita acompanhando o curso [Jornada Front-End](https://youtu
 - HTML
 - CSS
 
-### Resultado
+### [Resultado](https://viictorsr388.github.io/site-basico-home/index)
 
 Desktop:
 
@@ -25,4 +25,3 @@ Phone:
   <img src="https://user-images.githubusercontent.com/71882342/161981932-fb53d822-96a4-416c-9986-07d84c7fd1c1.png">
 </p>
 
-### [Acessar Aqui](https://viictorsr388.github.io/site-basico-home/index)
