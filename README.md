@@ -11,6 +11,7 @@ Uma página básica feita acompanhando o curso [Jornada Front-End](https://youtu
 - VSCode
 - HTML
 - CSS
+- SCSS
 
 <h3 align="center"><a href="https://viictorsr388.github.io/site-basico-home/index">Resultado</a></h3>
 
