@@ -1,4 +1,4 @@
-<h1 align="center">Site Básico - HOME</h1>
+<h1 align="center">Site Básico - Curso Front End</h1>
 
 
 <h2 align="center">STATUS - COMPLETO</h2>
